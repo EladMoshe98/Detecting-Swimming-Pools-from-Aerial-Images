@@ -1,3 +1,15 @@
+ /$$$$$$$                     /$$       /$$$$$$$$ /$$                 /$$                    
+| $$__  $$                   | $$      | $$_____/|__/                | $$                    
+| $$  \ $$ /$$$$$$   /$$$$$$ | $$      | $$       /$$ /$$$$$$$   /$$$$$$$  /$$$$$$   /$$$$$$ 
+| $$$$$$$//$$__  $$ /$$__  $$| $$      | $$$$$   | $$| $$__  $$ /$$__  $$ /$$__  $$ /$$__  $$
+| $$____/| $$  \ $$| $$  \ $$| $$      | $$__/   | $$| $$  \ $$| $$  | $$| $$$$$$$$| $$  \__/
+| $$     | $$  | $$| $$  | $$| $$      | $$      | $$| $$  | $$| $$  | $$| $$_____/| $$      
+| $$     |  $$$$$$/|  $$$$$$/| $$      | $$      | $$| $$  | $$|  $$$$$$$|  $$$$$$$| $$      
+|__/      \______/  \______/ |__/      |__/      |__/|__/  |__/ \_______/ \_______/|__/      
+                                                                                             
+                                                                                             
+                                                                                             
+
 # Aerial Swimming Pool Detector
 
 Fine-tunes and benchmarks **9 object detection models** on an aerial imagery dataset to detect swimming pools from satellite/drone images. Covers CNN-based (YOLO26), transformer-based (RF-DETR), and oriented bounding box (YOLO11-OBB) architectures, with a full comparison of accuracy, speed, and localization precision.
